@@ -19,5 +19,5 @@ import 'package:flutter_app/start_screen.dart';
 
 void main(){
   runApp(const Quiz());
-  print('hello riyansssss');
+  
 }
